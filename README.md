@@ -1,3 +1,6 @@
+Please visit the pb-assembly Final Resting Place: 
+[Official pb-assembly repo](https://github.com/PacificBiosciences/pb-assembly)
+
 <h1 align="center">pb-assembly</h1>
 <p align="center">PacBio Assembly Tool Suite:
     Reads in ⇨ Assembly out
